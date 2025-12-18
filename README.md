@@ -159,6 +159,6 @@ This project is designed to be fully reproducible. The `scripts/` directory cont
 
 If you have any questions, feedback, or would like to discuss this project further, please do not hesitate to reach out.
 
-- **Email**: [Insert Email Here]
-- **LinkedIn**: [Insert LinkedIn Profile]
-- **Portfolio**: [Insert Portfolio Link]
+- **Email**: [dev.alikaganmart@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/kaganmart9/]
+- **Portfolio**: [https://kaganmart9.github.io/]
