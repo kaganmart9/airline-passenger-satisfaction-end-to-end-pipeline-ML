@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "airline-satisfaction"
+version = "0.1.0"
+description = "Airline Passenger Satisfaction - End-to-End ML Project"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["airline_satisfaction*"]
