@@ -90,7 +90,7 @@ The project follows a standard data science directory layout, ensuring reproduci
 │   └── satisfaction_age_distance.png
 ├── models/                     # Serialized models and artifacts
 ├── notebooks/                  # Interactive analysis environment
-│   └── airline-passenger-satisfaction-eda-ml.ipynb.ipynb  # Primary notebook for EDA and Modeling
+│   └── airline-passenger-satisfaction-eda-ml.ipynb  # Primary notebook for EDA and Modeling
 ├── scripts/                    # Production-ready Python scripts
 │   ├── evaluate_model.py       # Script for evaluating model performance
 │   ├── extract_plots.py        # Utility script to reproduce figures
